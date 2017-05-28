@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/v-align-utilities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "V-align utilities for Savvy CSS.",
   "main": "build/v-align-utilities.css",
   "style": "build/v-align-utilities.css",
